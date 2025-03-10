@@ -1,7 +1,4 @@
-Hi there :kissing_heart:
+Heya!
+I used to be a fashion designer, recently I've diven into programming, networking and cybersecurity. 
 
-I'm a designer and last year I decided to learn how to code.
-
-🌱 I’m currently a student @ 42 Lisbon.
-
-Right now I'm working on building a 2D game.
+This account is for self learning, the goal is to for my next job to be either in Data Analytics or AI. 
